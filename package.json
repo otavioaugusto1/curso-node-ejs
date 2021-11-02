@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/otavioaugusto1/curso-node-ejs/issues"
   },
-  "homepage": "https://github.com/otavioaugusto1/curso-node-ejs#readme"
+  "homepage": "https://github.com/otavioaugusto1/curso-node-ejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
