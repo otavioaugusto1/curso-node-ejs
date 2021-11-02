@@ -1,0 +1,20 @@
+{
+  "name": "curso-node-ejs",
+  "version": "1.0.0",
+  "description": "Básica introdução ao EJS pelo Discover Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otavioaugusto1/curso-node-ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otavioaugusto1/curso-node-ejs/issues"
+  },
+  "homepage": "https://github.com/otavioaugusto1/curso-node-ejs#readme"
+}
